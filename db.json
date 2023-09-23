@@ -1,25 +1,26 @@
 {
-  "dogs": [
-    {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
-    },
-    {
-      "id": 2,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
-    },
-    {
-      "id": 3,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Kolkata",
-      "gender": "Female"
-    }
+  "Products":[
+  {
+    "id":1,
+      "name":"Nike",
+      "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/k/e/v/s-39bwsa-urban-tiger-original-imagz5nbefzhhujd.jpeg?q=70",
+       "desc":"summer sale",
+       "gender":"Male",
+          "category":"Shirts",
+          "price":"500"
+
+  },
+  {
+    "id":2,
+      "name":"U.S Polo",
+      "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/k/e/v/s-39bwsa-urban-tiger-original-imagz5nbefzhhujd.jpeg?q=70",
+       "desc":"summer sale",
+       "gender":"Male",
+          "category":"Shirts",
+          "price":"700"
+
+  }
+
+
   ]
 }
